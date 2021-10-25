@@ -14,4 +14,4 @@ Um repositório para acomodar códigos desenvolvidos durante estudos sobre algor
 <img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem04.png"  width="600" >
 
 ## Seleção de indivíduos para nova geração
-<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem05.png"  width="600" >
+<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem05.png"  width="400" >
