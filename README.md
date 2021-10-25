@@ -4,15 +4,14 @@ Um repositório para acomodar códigos desenvolvidos durante estudos sobre algor
 
 ## Problema resolvido
 
-<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem01.png" alt="alt text" width="600" >
+<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem01.png"  width="600" >
 ## Estrutura do Algorítmo Genético
-![Imagem 2](https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem02.png)
-
+<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem02.png"  width="600" >
 ## Modelo de cromossomo (solução)
-![Imagem 3](https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem03.png)
+<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem03.png"  width="600" >
 
 ## Reprodução dos indivíduos
-![Imagem 4](https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem04.png)
+<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem04.png"  width="600" >
 
 ## Seleção de indivíduos para nova geração
-![Imagem 5](https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem05.png)
+<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem05.png"  width="600" >
