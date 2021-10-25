@@ -4,7 +4,7 @@ Um repositório para acomodar códigos desenvolvidos durante estudos sobre algor
 
 ## Problema resolvido
 ![Imagem 1](https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem01.png | width=100)
-
+<img src="https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem01.png" alt="alt text" width="100" >
 ## Estrutura do Algorítmo Genético
 ![Imagem 2](https://github.com/bruiglesias/algoritmos-geneticos/blob/master/images/imagem02.png)
 
